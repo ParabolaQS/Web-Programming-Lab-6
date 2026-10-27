@@ -1,4 +1,5 @@
 # Assignment 6 — Post Dashboard
+# Web Lab 6
 
 A React + Vite dashboard that fetches posts from JSONPlaceholder, displays loading/error/empty states, and filters posts by title.
 
